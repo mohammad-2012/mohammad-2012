@@ -30,6 +30,6 @@
 
  
 <p>"🧑‍💻The best way to learn is to build."</p>
-<p>Please follow me. Thank you, my friend.</p>
+<p><👩🏻‍💻💖/></p>
 
 </div>
