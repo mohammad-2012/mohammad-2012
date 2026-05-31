@@ -1,7 +1,6 @@
 <div align="center">
 
 
-<!-- معرفی -->
 <h1>👋 Hi there!</h1>
 <p>Hi, I'm Mohammad Akbari - a Junior  frontend developer. And I love coding.</p>
 
@@ -23,7 +22,7 @@
 
 <h2 align="left" >📬 Contact me: </h2>
 <p align="center">
-  <a href="https://t.me/Mohammad_akbari2012" target="_blank">
+  <a href="https://t.me/mohammad_dev_2012" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
