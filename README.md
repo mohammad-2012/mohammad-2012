@@ -32,7 +32,6 @@
   </a>
 </p>
 
-<p>🧑‍💻 "The best way to learn is to build."</p>
-<p>👩🏻‍💻💖</p>
-
+<p>🧑‍💻 "The best way to learn is to build." 🩵</p>
+ 
 </div>
