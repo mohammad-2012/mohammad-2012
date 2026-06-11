@@ -1,7 +1,22 @@
 <div align="center">
 
+<!-- Typewriter Effect -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=3B82F6&center=true&vCenter=true&width=600&lines=✨+Hello%2C+I'm+Mohammad+Akbari+✨;💻+Junior+Frontend+Developer;🚀+1.5%2B+years+of+coding+journey;⚡+Moving+toward+Full-Stack+Development" alt="Typing SVG" />
+</p>
+
 <h1>👋 Hi there!</h1>
 <p>Hi, I'm Mohammad Akbari - a Junior Frontend Developer. And I love coding.</p>
+
+<!-- About Me Section -->
+<h2 align="left">📖 About Me</h2>
+<p align="left">
+  🧑‍💻 I started my coding journey <strong>about 1.5 years ago</strong>.<br />
+  In this time, I've become a <strong>completely professional Frontend Developer</strong>, mastering React, Next.js, Redux, TailwindCSS, and modern frontend tools.<br />
+  🚀 Now I'm actively <strong>moving toward becoming a Full-Stack Developer</strong> — learning backend technologies to build complete, scalable applications.<br />
+  💡 I love solving problems, writing clean code, and turning ideas into reality.<br />
+  🌟 <em>"The best way to learn is to build."</em> — and I build something new every day.
+</p>
 
 <h2 align="left">🚀 My Expertise:</h2>
 <p align="left">
@@ -32,11 +47,3 @@
 <p>👩🏻‍💻💖</p>
 
 </div>
-
-به این یه بخش about me هم اضافه کن و دربارهمن بنویس سنم رو ننویس و بگو که سفرم رو در دنبای برنماه نویسی 1/5 سالی می ش که شروع کردم توی این مدت یک فرانت اند دولپر کاملا حرفه ای شدم و به سمت فول استک شدن دارم حرکت می کنم و..
-و باال بالا همه این ها یه چیزی بزار مثل type riter که مت تایپ بشه و.. که توش
-بگه 
-سلام , من محمد اگبری هستم  و... بعد این یه چیز ..
-همه اینها ر به انگلیسی نویس .
-این ریدمی هست ریدمی گیتهاب که برای پروفایل ساختمش
-این رو قراره مستقیم ببرم بزارم توی ریدمی  پس کار کنه چون برای اینه که وقتی کاربر صفحه پروفایل منو باز کردن اینا دیده بشه کار کنه
