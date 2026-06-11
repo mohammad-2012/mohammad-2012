@@ -7,15 +7,6 @@
 <h1>👋 Hi there!</h1>
 <p>Hi, I'm Mohammad Akbari - a passionate Frontend Developer. And I love coding.</p>
 
-<h2 align="left">📖 About Me</h2>
-<p align="left">
-  🧑‍💻 I started my coding journey <strong>about 1.5 years ago</strong>.<br />
-  In this time, I've become a <strong>completely professional Frontend Developer</strong>, mastering React, Next.js, Redux, TailwindCSS, and modern frontend tools.<br />
-  🚀 Now I'm actively <strong>moving toward becoming a Full-Stack Developer</strong> — learning backend technologies to build complete, scalable applications.<br />
-  💡 I love solving problems, writing clean code, and turning ideas into reality.<br />
-  🌟 <em>"The best way to learn is to build."</em> — and I build something new every day.
-</p>
-
 <h2 align="left">🚀 My Expertise:</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
