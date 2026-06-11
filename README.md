@@ -1,11 +1,7 @@
 <div align="center">
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=3B82F6&center=true&vCenter=true&width=650&lines=✨+Hello%2C+I'm+Mohammad+Akbari+✨;💻+Frontend+Developer+%7C+Future+Full-Stack;🚀+1.5%2B+years+of+coding+journey;⚡+Turning+ideas+into+reality" alt="Typing SVG" />
-</p>
-
 <h1>👋 Hi there!</h1>
-<p>Hi, I'm Mohammad Akbari - a passionate Frontend Developer. And I love coding.</p>
+<p>Hi, I'm Mohammad Akbari - a Junior Frontend Developer. And I love coding.</p>
 
 <h2 align="left">🚀 My Expertise:</h2>
 <p align="left">
@@ -37,6 +33,6 @@
 </p>
 
 <p>🧑‍💻 "The best way to learn is to build."</p>
-<p>💖</p>
+<p>👩🏻‍💻💖</p>
 
 </div>
