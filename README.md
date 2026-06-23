@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=const+dev+%3D+new+Developer(%22Mohammad+Akbari%22)%3B;Junior+Frontend+Developer+%F0%9F%9A%80;Based+in+Iran+%2F+Ardabil+%F0%9F%87%AE%F0%9F%87%B7;Born+2012+%E2%80%A2+Building+the+web+%F0%9F%8C%90)](https://git.io/typing-svg)
 
- const response: ApiResponse<Developer> = {
+```typescript
+const response: ApiResponse<Developer> = {
   status: 202,
   data: {
     name:      "Mohammad Akbari",
@@ -21,7 +22,7 @@
     quote: "The best way to learn is to build. 🩵",
   }
 };
- 
+
 ---
 
 ## 🚀 Tech Stack
