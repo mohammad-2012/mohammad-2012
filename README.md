@@ -50,21 +50,11 @@ const response: ApiResponse<Developer> = {
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## 📬 Contact me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mohammad_dev_2012)
 &nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/Website-mo--dev.ir-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mo-dev.ir)
-
----
 
 🧑‍💻 *"The best way to learn is to build."* 🩵
 
