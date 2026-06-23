@@ -67,8 +67,6 @@ const response: ApiResponse<Developer> = {
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=7F77DD&style=flat-square&label=Profile+Views)
-
 🧑‍💻 *"The best way to learn is to build."* 🩵
 
 </div>
