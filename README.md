@@ -19,6 +19,7 @@ const response: ApiResponse<Developer> = {
       state:      ["Context Api" , "Redux", "React Query" , ...],
       style:      ["TailwindCSS", "Bootstrap" , "Styled Components" , "Sass/SCSS"],
       backend:    ["Supabase" , "Firebase" , "Next.js API Routes"],
+      databases"  ["MongoDB", "MySQL", "PostgreSQL"],
       tools:      ["Git", "GitHub", "Figma", "Photoshop"],
     },
    }
