@@ -9,7 +9,6 @@ const response: ApiResponse<Developer> = {
   status: 202,
   data: {
     name:      "Mohammad Akbari",
-    birthDay:  "2012",
     location:  "Iran / Ardabil 🇮🇷",
     role:      "Junior Frontend Developer",
     available: true,
