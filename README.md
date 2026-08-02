@@ -24,6 +24,11 @@ const response: ApiResponse<Developer> = {
    }
 };
 ```
+---
+
+## About Me
+Mohammad Akbari is a Junior Frontend Developer from Ardabil, Iran.
+He specializes in React, Next.js, and modern web technologies.
 
 ---
 
