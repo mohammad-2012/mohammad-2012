@@ -68,7 +68,7 @@ He specializes in React, Next.js, and modern web technologies.
 
 ## 📬 Contact me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mohammad_dev_2012)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mocotoovins)
 &nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/Website-mo--dev.ir-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammad-toovins.vercel.app)
 
