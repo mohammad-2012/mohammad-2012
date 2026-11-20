@@ -71,7 +71,7 @@ He specializes in React, Next.js, and modern web technologies.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mocotoovins)
 [![Website](https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohammad-toovins.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mocodein)
-[![twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mocode_x)
+[![X](https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mocode_x)
 
 🧑‍💻 *"The best way to learn is to build."* 🩵
 
